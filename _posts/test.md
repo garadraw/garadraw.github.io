@@ -11,7 +11,11 @@ tags: [c,web3]
 
 First Test
 dsfds
-f
+fCounting objects: 100% (11/11), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (6/6), done.
+Writing objects: 100% (7/7), 1.86 KiB | 1.86 MiB/s, done.
+Total 7 (delta 2), reused 0 (delta 0),
 df
 ds
 f
