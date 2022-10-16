@@ -1,3 +1,45 @@
+# How to 
+
+
+# Research
+
+How to Make posts Show Up in Site
+https://stackoverflow.com/questions/30625044/jekyll-post-not-generated
+https://stackoverflow.com/questions/37015860/blog-posts-are-not-showing-in-jekyll
+
+
+
+Jekyll Homepage:
+https://jekyllrb.com/
+
+How to Display an Image in Post:
+https://stackoverflow.com/questions/40197197/jekyll-how-to-display-an-image-in-a-post
+
+Basically Copy the Photo to Assets Folder and then Use the Relative Path of it as so in the Post Markdown File
+EX:
+![img-description](/assets/img/SC_RIdeIT_Logo.jpeg)
+
+
+
+Main Tutorial,  *Awesome!* :
+https://www.youtube.com/watch?v=F8iOU1ci19Q&ab_channel=TechnoTim
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Chirpy Starter [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)](https://rubygems.org/gems/jekyll-theme-chirpy) [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
 
 When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders `_includes`, `_layout`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file from the theme's gem. If you have ever installed this theme gem, you can use the command `bundle info --path jekyll-theme-chirpy` to locate these files.
