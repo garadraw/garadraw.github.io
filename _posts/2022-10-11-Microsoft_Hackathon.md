@@ -24,7 +24,7 @@ Our App Helps tackle the High C02 Emissions by Bringing Awareness on the Consume
 
 ![img-description](/assets/img/Microsoft_Hackathon/03_Microsoft_Hackathon_Slide.png)
 
-Here is our MVP
+Here is our MVP 
 
 ![img-description](/assets/img/Microsoft_Hackathon/05_Microsoft_Hackathon_App.png)
 
