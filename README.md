@@ -19,6 +19,8 @@ Basically Copy the Photo to Assets Folder and then Use the Relative Path of it a
 EX:
 ![img-description](/assets/img/SC_RIdeIT_Logo.jpeg)
 
+How to Display a Video, make a Link, and Pictures:
+https://www.youtube.com/watch?v=2ivKEj3ksPk&ab_channel=MoacirP.deS%C3%A1Pereira
 
 
 Main Tutorial,  *Awesome!* :
